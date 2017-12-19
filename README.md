@@ -18,8 +18,8 @@ pip install pipenv
 pipenv install
 ```
 
-#### macosの場合`matplotlib`を使うために`matplotlibrc`を修正する必要がある
-- matplotlibrcの場所を特定
+#### macosの場合matplotlib使うためにmatplotlibrcを修正する必要がある
+- `matplotlibrc`の場所を特定
 
 ```
 pipenv run python -c "import matplotlib;print(matplotlib.matplotlib_fname())"
