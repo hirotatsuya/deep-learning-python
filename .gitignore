@@ -1,5 +1,5 @@
 dataset/*
 !lena.png
-mnist.py
+!mnist.py
 
 src/__pycache__
