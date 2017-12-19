@@ -2,4 +2,5 @@ dataset/*
 !lena.png
 !mnist.py
 
-src/__pycache__
+__pycache__
+*.ipynb
