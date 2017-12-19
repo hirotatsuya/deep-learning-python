@@ -19,10 +19,16 @@ pipenv install
 ```
 
 ## Usage
-- 実行
+- コンソール実行
 
 ```
 pipenv run python (target).py
+```
+
+- jupyter
+
+```
+pipenv run jupyter notebook
 ```
 
 ## Reference
