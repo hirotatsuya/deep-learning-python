@@ -9,6 +9,7 @@ name = "pypi"
 
 numpy = "*"
 matplotlib = "*"
+pillow = "*"
 
 
 [dev-packages]
