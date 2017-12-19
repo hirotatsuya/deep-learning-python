@@ -1,6 +1,12 @@
+__pycache__
+
+# mnist dataset
 dataset/*
 !lena.png
 !mnist.py
 
-__pycache__
+# jupyter
 *.ipynb
+
+# pycharm
+.idea
