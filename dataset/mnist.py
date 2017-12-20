@@ -24,7 +24,6 @@ test_num = 10000
 img_dim = (1, 28, 28)
 img_size = 784
 
-
 def _download(file_name):
   file_path = dataset_dir + "/" + file_name
   if os.path.exists(file_path):
